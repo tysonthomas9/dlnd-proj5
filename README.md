@@ -1,4 +1,4 @@
-# Udacity Deep Learning Nano Degree - Project 5
+# Udacity Deep Learning Nano Degree Project - Face Generation using GAN
 
 This project is about developing a Generative Adversarial Neural Network to generate new face images. We use the MIST dataset initially to test the network before training on the Face images.
 We are using a corpus of celebrity dataset of size 28x28 pixels for training the face generation model. 
